@@ -9,7 +9,9 @@
 > 📲 WhatsApp: http://wa.me/5541985078965<br>
 > 📩 E-mail: victorhfp.bcc@gmail.com<br>
 
+
 ## Quem sou eu?
+
  * Sou um profissional muito grato por tudo que aprendi/aprendo todos os dias e por isso gosto de ajudar as demais pessoas que estão a minha volta, pois a troca de experiências é algo incrivel, e sempre podemos contribuir e aprender ao mesmo tempo.
  * Estou sempre a disposição para escutar o próximo e agir em equipe, seja para a criação de algo novo, seja para solucionar um problema, ou tambem para aceitar o convite para tomar um café :).
  * Sou extremamente detalhista, algo que nem sempre é tão bom assim, rs, mas gosto das coisas sempre bem feitas, é uma caracteristica minha que levo pra vida, para qualquer assunto ou situação.
@@ -28,6 +30,8 @@
 ## Back-end
   * NodeJs
   * Typescript
+  * gRPC
+  * GraphQL
   * Java
   
 ## Front-end
@@ -40,29 +44,47 @@
   * HTML
   * CSS
   * JS
+ 
+ ## Banco de Dados
+  * MongoDb
+  * Redis
+  * SQlite
+  * Oracle
+  * MySQL
+  * Pos
   
  ## Versionadores
-  * Git
+  * GIT
   * SNV
   
  ## DevOps
+  * GitFlow
   * Docker
   * Jenkins
   * Kubernetes
 
 # Certificados / Cursos
-  * ✔[Microserviços, Docker, Kubernetes, Jenkins e Helm, Udemy](/certificados/UC-3NKTLVZM_Microserviços.pdf)
-  *	✔[SCM e Versionamento de Código efetivo: Git, Gitlab e Gitflow, Udemy](/certificados/UC-3NKTLVZM_Microserviços.pdf)
-  *	Gitlab CI: Pipelines, Continuous Delivery e Deployment, Udemy.
-  *	Jenkins em larga escala via Docker e Kubernetes, Udemy.
-  *	Curso Completo do Desenvolvedor NodeJS e MongoDB, Udemy. (Concluído).
-  *	Desenvolvendo Aplicações Web Com Bootstrap 4, Udemy. (Concluído).
-  *	Montagem e Manutenção de Computadores, Microlins. (Concluído).
+  * ✔ Microserviços, Docker, Kubernetes, Jenkins e Helm, Udemy. [(Certificado)](/certificados/UC-3NKTLVZM_Microserviços.pdf)
+  * ✔ SCM e Versionamento de Código efetivo: Git, Gitlab e Gitflow, Udemy. [(Certificado)](/certificados/UC-3NKTLVZM_Microserviços.pdf)
+  * ✔ Curso Completo do Desenvolvedor NodeJS e MongoDB, Udemy. [(Certificado)](/certificados/UC-M0F32CR3_NodeJS_MongoDb.pdf)
+  * Gitlab CI: Pipelines, Continuous Delivery e Deployment, Udemy. (Cursando)
 
 
-## Experiência
+## Prêmios 🏆🏅
+ * [05/2014 – Hackathon Curitiba, Prefeitura Municipal de Curitiba, Equipe Magic Numbers](https://www.curitiba.pr.gov.br/noticias/aplicativos-para-saude-mobilidade-e-cidadania-sao-premiados-em-maratona/32859)
+   
 
-* **07/2020 - Atuando, Analista SR - Telefonica do Brasil**<br>
-  * **Função**: Analista/Desenvolvedor no Squad Dex F1 na Diretoria de Inovação Digital.<br>
-  Desenvolvimento e análise que estão relacionados ao App do Meu Vivo e micro serviços correlacionados.<br>
-  * **Tecnologias envolvidas**: NodeJs, Typescript, Reac-Native, Vue.js Redis, gRPC, Kubernetes, Docker, Soap, Rest, API, Swagger, Gitlab, Jenkins, kibana, Istio, DevOps, ESB, SOA, SQL, Jdbc, Sync, Async, LDAP, Json, entre outras.
+# Experiência Profissional
+
+* __07/2019 - Atuando, Analista/Desenvolvedor - Telefonica do Brasil__<br>
+* _04/2019 - 07/2019 – BRQ IT SERVICES, Analista/Desenvolvedor_<br>
+* _10/2018 – 04/2019 – MJV Digital, Analista/Desenvolvedor_<br>
+* _02/2016 – 09/2018 – Telefônica do Brasil, Analista de Sistemas_<br>
+* _07/2015 – 12/2015 – eWave do Brasil, Analista/Desenvolvedor_<br>
+* _11/2014 – 07/2015 – Capgemini, Analista de Sistemas_<br>
+* _11/2013 – 07/2014 – Grupo Abril Educação, Programador_<br>
+* _07/2013 – 11/2013 – BRQ IT Service, Programador_<br>
+* _04/2012 – 07/2013 – GoldenSoft, Programador Mobile_<br>
+
+# Me ajude!
+Encontrou algum erro na escrita? Sentiu falta de algo? Abra uma issue por favor! 😉
