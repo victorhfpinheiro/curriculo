@@ -1,5 +1,7 @@
 # Victor Hugo Feliciano Pinheiro
 
+👨‍👩‍👦‍👦💑⚽🎮🥩🍗🍻
+
 🏠 Nascido no dia 03 de Junho de 1993 em São José dos Pinhais/PR e desde então aqui permaneço por todos esses anos.<br>
 👨‍🎓 Graduado em Bacharelado de Sistemas da Informação, IEL.<br>
 
