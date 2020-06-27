@@ -15,6 +15,7 @@
  * Sou extremamente detalhista, algo que nem sempre é tão bom assim, rs, mas gosto das coisas sempre bem feitas, é uma caracteristica minha que levo pra vida, para qualquer assunto ou situação.
  * Estou SEMPRE atento e me questionando, levo comigo os [5W2H](https://klickpages.com.br/blog/5w2h-o-que-significa/) para a vida, "_Mas porque? Porque? Porque?_", dizem que essa técnica vale apenas para empresas e algumas áreas, mas eu discordo, eu uso esse raciocinio 24h dos meus dias, tentando facilitar as coisas, por mais simples que seja, para que sobre no final do dia mais tempo para pensar em algo diferente, ou fazer mais coisas. 💪
  * Adoro ajudar a resolver problemas, na minha opinião, eles são os maiores responsáveis pelo nosso crescimento e amadurecimento, seja na vida pessoal ou profissional, são neles onde pessoas se superam, se descobrem.
+ * E levo comigo um rotina de estar sempre me atualizando e estudando. Na maioria das vezes o tema tecnologia, linguagens de programação que toma maior parte dos meus estudos.
 
 ## Redes Socias
 - [LinkedIn](https://www.linkedin.com/in/victorhfpinheiro/)
@@ -53,7 +54,4 @@
 * **07/2020 - Atuando, Analista SR - Telefonica do Brasil**<br>
   * **Função**: Analista/Desenvolvedor no Squad Dex F1 na Diretoria de Inovação Digital.<br>
   Desenvolvimento e análise que estão relacionados ao App do Meu Vivo e micro serviços correlacionados.<br>
-
-  * **Atuação em projetos como:** Negociar Contas Fase 1 e Fase 2, Meu Vivo Fixo, Meu Vivo Convergente (Nova Stack), Warrom de Segurança, OAUTH entre outros.<br>
-
   * **Tecnologias envolvidas**: NodeJs, Typescript, Reac-Native, Vue.js Redis, gRPC, Kubernetes, Docker, Soap, Rest, API, Swagger, Gitlab, Jenkins, kibana, Istio, DevOps, ESB, SOA, SQL, Jdbc, Sync, Async, LDAP, Json, entre outras.
