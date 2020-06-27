@@ -18,6 +18,7 @@
  * Estou SEMPRE atento e me questionando, levo comigo os [5W2H](https://klickpages.com.br/blog/5w2h-o-que-significa/) para a vida, "_Mas porque? Porque? Porque?_", dizem que essa técnica vale apenas para empresas e algumas áreas, mas eu discordo, eu uso esse raciocinio 24h dos meus dias, tentando facilitar as coisas, por mais simples que seja, para que sobre no final do dia mais tempo para pensar em algo diferente, ou fazer mais coisas. 💪
  * Adoro ajudar a resolver problemas, na minha opinião, eles são os maiores responsáveis pelo nosso crescimento e amadurecimento, seja na vida pessoal ou profissional, são neles onde pessoas se superam, se descobrem.
  * E levo comigo um rotina de estar sempre me atualizando e estudando. Na maioria das vezes o tema tecnologia, linguagens de programação que toma maior parte dos meus estudos.
+ 
 
 ## Redes Socias
 * [LinkedIn](https://www.linkedin.com/in/victorhfpinheiro/)
@@ -32,7 +33,10 @@
   * Typescript
   * gRPC
   * GraphQL
+  * JWE / JWT
+  * Swagger
   * Java
+ 
   
 ## Front-end
 
@@ -45,13 +49,24 @@
   * CSS
   * JS
  
+ ## Testes
+  * TDD
+  * Jest
+  * JUnit
+  
+ ## Padrões de código
+  * Eslint
+  * TSlint
+  * Prettier
+  * Sonar
+ 
  ## Banco de Dados
   * MongoDb
   * Redis
   * SQlite
   * Oracle
   * MySQL
-  * Pos
+  * PostgreSQL
   
  ## Versionadores
   * GIT
@@ -62,6 +77,10 @@
   * Docker
   * Jenkins
   * Kubernetes
+  
+ ## Métodos Ágeis
+  * Scrum
+  * kanban
 
 # Certificados / Cursos
   * ✔ Microserviços, Docker, Kubernetes, Jenkins e Helm, Udemy. [(Certificado)](/certificados/UC-3NKTLVZM_Microserviços.pdf)
