@@ -51,8 +51,8 @@
   * Kubernetes
 
 # Certificados / Cursos
-  * Microserviços, Docker, Kubernetes, Jenkins e Helm, Udemy
-  *	SCM e Versionamento de Código efetivo: Git, Gitlab e Gitflow, Udemy.
+  * ✔[Microserviços, Docker, Kubernetes, Jenkins e Helm, Udemy](/certificados/UC-3NKTLVZM_Microserviços.pdf)
+  *	✔[SCM e Versionamento de Código efetivo: Git, Gitlab e Gitflow, Udemy](/certificados/UC-3NKTLVZM_Microserviços.pdf)
   *	Gitlab CI: Pipelines, Continuous Delivery e Deployment, Udemy.
   *	Jenkins em larga escala via Docker e Kubernetes, Udemy.
   *	Curso Completo do Desenvolvedor NodeJS e MongoDB, Udemy. (Concluído).
