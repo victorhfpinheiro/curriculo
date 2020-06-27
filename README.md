@@ -38,6 +38,8 @@
   * GraphQL
   * JWE / JWT
   * Swagger
+  * Json
+  * Sync/Async
   * Java
  
   
@@ -80,6 +82,9 @@
   * Docker
   * Jenkins
   * Kubernetes
+  * Istio
+  * Helm
+  * Kibana
   
  ## Métodos Ágeis
   * Scrum
