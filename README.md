@@ -2,12 +2,14 @@
 
 👨‍👩‍👦‍👦👫⚽🎮🥩🍗🍻🎸🦷
 
+##  
+
 🏠 Nascido no dia 03 de Junho de 1993 em São José dos Pinhais/PR e desde então aqui permaneço por todos esses anos.<br>
-👨‍🎓 Graduado em Bacharelado de Sistemas da Informação, IEL.<br>
+👨‍🎓 Graduado em Bacharelado de Sistemas da Informação, IEL.<br><br>
 
 > 📞 Contato: (41) 9 8507-8965<br>
 > 📲 WhatsApp: http://wa.me/5541985078965<br>
-> 📩 E-mail: victorhfp.bcc@gmail.com<br>
+> 📩 E-mail: victorhfp.bcc@gmail.com<br><br>
 
 
 ## Quem sou eu?
