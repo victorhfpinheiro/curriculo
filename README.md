@@ -1,6 +1,6 @@
 # Victor Hugo Feliciano Pinheiro
 
-👨‍👩‍👦‍👦💑⚽🎮🥩🍗🍻
+👨‍👩‍👦‍👦💑⚽🎮🥩🍗🍻🎸
 
 🏠 Nascido no dia 03 de Junho de 1993 em São José dos Pinhais/PR e desde então aqui permaneço por todos esses anos.<br>
 👨‍🎓 Graduado em Bacharelado de Sistemas da Informação, IEL.<br>
@@ -18,8 +18,10 @@
  * E levo comigo um rotina de estar sempre me atualizando e estudando. Na maioria das vezes o tema tecnologia, linguagens de programação que toma maior parte dos meus estudos.
 
 ## Redes Socias
-- [LinkedIn](https://www.linkedin.com/in/victorhfpinheiro/)
-  
+* [LinkedIn](https://www.linkedin.com/in/victorhfpinheiro/)
+* [Facebook](https://www.facebook.com/fpvictor.hugo/)
+* [Instagram](https://www.instagram.com/vttorugo/)
+
 
 # Conhecimentos
 
@@ -47,6 +49,15 @@
   * Docker
   * Jenkins
   * Kubernetes
+
+# Certificados / Cursos
+  * Microserviços, Docker, Kubernetes, Jenkins e Helm, Udemy
+  *	SCM e Versionamento de Código efetivo: Git, Gitlab e Gitflow, Udemy.
+  *	Gitlab CI: Pipelines, Continuous Delivery e Deployment, Udemy.
+  *	Jenkins em larga escala via Docker e Kubernetes, Udemy.
+  *	Curso Completo do Desenvolvedor NodeJS e MongoDB, Udemy. (Concluído).
+  *	Desenvolvendo Aplicações Web Com Bootstrap 4, Udemy. (Concluído).
+  *	Montagem e Manutenção de Computadores, Microlins. (Concluído).
 
 
 ## Experiência
