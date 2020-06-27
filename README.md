@@ -12,7 +12,7 @@
  * Estou sempre a disposição para escutar o próximo e agir em equipe, seja para a criação de algo novo, seja para solucionar um problema, ou tambem para aceitar o convite para tomar um café :).
  * Sou extremamente detalhista, algo que nem sempre é tão bom assim, rs, mas gosto das coisas sempre bem feitas, é uma caracteristica minha que levo pra vida, para qualquer assunto ou situação.
  * Estou SEMPRE atento e me questionando, levo comigo os [5W2H](https://klickpages.com.br/blog/5w2h-o-que-significa/) para a vida, "_Mas porque? Porque? Porque?_", dizem que essa técnica vale apenas para empresas e algumas áreas, mas eu discordo, eu uso esse raciocinio 24h dos meus dias, tentando facilitar as coisas, por mais simples que seja, para que sobre no final do dia mais tempo para pensar em algo diferente, ou fazer mais coisas. 💪
- * Sou adepto a problemas, ninguem gosta de problemas na vida, e sinceramente na vida tambem não gosto, mas na vida profissional os problemas são os responsáveis por gerar ainda mais conhecimento, onde pessoas se superam, onde conhecimentos são adquiridos, onde ocorre boa parte do nosso crescimento e amadurecimento.
+ * Adoro ajudar a resolver problemas, na minha opinião, eles são os maiores responsáveis pelo nosso crescimento e amadurecimento, seja na vida pessoal ou profissional, são neles onde pessoas se superam, se descobrem.
 
 ## Redes Socias
 - [LinkedIn](https://www.linkedin.com/in/victorhfpinheiro/)
