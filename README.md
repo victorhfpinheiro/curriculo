@@ -9,8 +9,9 @@
 
 > 📞 Contato: (41) 9 8507-8965<br>
 > 📲 WhatsApp: http://wa.me/5541985078965<br>
-> 📩 E-mail: victorhfp.bcc@gmail.com<br><br>
+> 📩 E-mail: victorhfp.bcc@gmail.com
 
+## 
 
 ## Quem sou eu?
 
